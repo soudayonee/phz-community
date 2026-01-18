@@ -71,7 +71,7 @@
       <LinkCard
         href="https://chat.whatsapp.com/HtHLtmdWtiRBp0tazdFMY1"
         title="Yorepiblu"
-        description="Grup kedua komunitas PHZ yang sudah diisi 70+ member"
+        description="Grup santai untuk Anda yang ingin mulai ngobrol dengan orang baru"
         introText={"\n*Welcome To YOREPIBLU* \n\n✙ *Member Baru Wajib Intro*\n\n✙════════════════✙\n• |     ```Kartu Intro```\n• | ✿ *Nama*        :\n• | ✿ *Umur*        :\n• | ✿ *Kelas*       :\n• | ✿ *Asal*        : \n• | ✿ *Gender*      :\n• | ✿ *Hoby*        : \n• | ✿ *Waifu/Husbu* :\n✙════════════════✙\n\n*Semoga betah member baru*"}
         type="button"
       >
