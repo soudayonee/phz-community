@@ -1,0 +1,13 @@
+{
+  "security.txt": {
+    "version": "1.0.0",
+    "contacts": [
+      {
+        "contact": "mailto:naufaladityayahya@gmail.com",
+        "encryption": "https://naufaladityayahya.me",
+        "preferred": true
+      }
+    ],
+    "homepage": "https://phz-community.vercel.app"
+  }
+}

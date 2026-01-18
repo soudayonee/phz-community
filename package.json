@@ -1,0 +1,25 @@
+{
+	"name": "phz-community",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^7.0.0",
+		"@sveltejs/kit": "^2.49.1",
+		"@sveltejs/vite-plugin-svelte": "^6.2.4",
+		"autoprefixer": "^10.4.23",
+		"phosphor-svelte": "^3.0.1",
+		"svelte": "^5.46.4",
+		"tailwindcss": "^4.1.18",
+		"vite": "^7.2.6"
+	},
+	"dependencies": {
+		"@tailwindcss/vite": "^4.1.18"
+	}
+}

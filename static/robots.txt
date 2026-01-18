@@ -1,0 +1,13 @@
+# Pizza Hat Crown Community robots.txt
+User-agent: *
+Allow: /
+
+# Allow specific crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
+Sitemap: https://phz-community.vercel.app/sitemap.xml
