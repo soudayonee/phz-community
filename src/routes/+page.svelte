@@ -69,7 +69,7 @@
       </LinkCard>
 
       <LinkCard
-        href="https://chat.whatsapp.com/LqOD7ZeW0bjG8Mz5lDe9sn"
+        href="https://chat.whatsapp.com/ChudkqTLzQQKqgMbqNEjw9"
         title="Yorepiblu"
         description="Grup santai untuk Anda yang ingin mulai ngobrol dengan orang baru"
         introText={"\n*Welcome To YOREPIBLU* \n\n✙ *Member Baru Wajib Intro*\n\n✙════════════════✙\n• |     ```Kartu Intro```\n• | ✿ *Nama*        :\n• | ✿ *Umur*        :\n• | ✿ *Kelas*       :\n• | ✿ *Asal*        : \n• | ✿ *Gender*      :\n• | ✿ *Hoby*        : \n• | ✿ *Waifu/Husbu* :\n✙════════════════✙\n\n*Semoga betah member baru*"}
